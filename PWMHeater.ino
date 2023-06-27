@@ -5,7 +5,7 @@
 #define MOTOR_PIN 5 // D1
 
 // Define the pin number for the button input pin
-#define BUTTON_PIN 14 // D2
+#define BUTTON_PIN 14 // D5
 
 // Define the four PWM duty cycles to cycle through
 const int DUTY_CYCLES[] = {0, 33, 66, 100};
