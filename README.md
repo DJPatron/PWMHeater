@@ -1,4 +1,4 @@
-# Car Heater Blower Control with MOSFET
+# Car Heater Blower Control with ESP8266
 This repository contains code that can be used to control a car heater blower using an ESP8266 microcontroller and a MOSFET. The code implements a simple PWM-based control scheme to adjust the speed of the blower motor.
 
 ## Hardware Components
