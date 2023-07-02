@@ -1,6 +1,3 @@
-// Include the necessary libraries
-#include <ESP8266WiFi.h>
-
 // Define the pin number for the motor control pin
 #define MOTOR_PIN 5 // D1
 
